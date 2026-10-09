@@ -1,4 +1,4 @@
-<h1 align="center">USERNAME</h1>
+<h1 align="center">NatePoint</h1>
 
 <h3 align="center">Специалист по информационной безопасности | Python · Kotlin · PHP · CSS</h3>
 
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=2E9EF7&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=2E9EF7" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?NatePoint=NatePoint&label=Profile%20views&color=2E9EF7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NatePoint?label=Followers&style=flat-square&color=2E9EF7" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Information%20Security-2E9EF7?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-success?style=flat-square" alt="Status" />
 </p>
@@ -54,12 +54,12 @@
 ## Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?NatePoint=NatePoint&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatePoint&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NatePoint=NatePoint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## Достижения
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?NatePoint=NatePoint&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## График активности
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?NatePoint=NatePoint&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
