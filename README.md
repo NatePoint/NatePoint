@@ -1,101 +1,200 @@
-<h1 align="center">NatePoint</h1>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<h3 align="center">Специалист по информационной безопасности | Python · Kotlin · PHP · CSS</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=NatePoint&fontSize=70&fontColor=00e5a0&animation=fadeIn&fontAlignY=38&desc=Информационная%20безопасность%20•%20Код%20•%20Эксперименты&descSize=18&descAlignY=60&descColor=c9d1d9" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F+%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C;Python+%C2%B7+Kotlin+%C2%B7+PHP+%C2%B7+CSS;%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D0%B8+%D0%B0%D1%83%D0%B4%D0%B8%D1%82+%D0%BA%D0%BE%D0%B4%D0%B0" alt="Typing SVG" />
-</p>
+<a href="https://github.com/NatePoint">
+  <img src="https://github.com/NatePoint.png" width="140" style="border-radius:50%" alt="NatePoint avatar"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?NatePoint=NatePoint&label=Profile%20views&color=2E9EF7&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/NatePoint?label=Followers&style=flat-square&color=2E9EF7" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Information%20Security-2E9EF7?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-success?style=flat-square" alt="Status" />
-</p>
+<br/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&width=640&height=50&lines=Привет%2C+я+NatePoint;Изучаю+информационную+безопасность;Пишу+инструменты+и+приложения;Ломаю+только+то%2C+что+разрешено" alt="Typing SVG"/>
+</a>
 
-## О специалисте
+<br/>
 
-Специалист по информационной безопасности с практическим опытом разработки защищённых систем на **Python**, **Kotlin** и **PHP**. В области фронтенд-разработки работаю с **CSS**. Занимаюсь аудитом кода, анализом уязвимостей и разработкой безопасного программного обеспечения. Открыт для сотрудничества по профильным направлениям.
+<img src="https://komarev.com/ghpvc/?username=NatePoint&label=Просмотры+профиля&color=00e5a0&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/NatePoint?label=Подписчики&style=flat-square&color=2c5364&labelColor=0f2027" alt="followers"/>
+<img src="https://img.shields.io/github/stars/NatePoint?label=Звёзды&style=flat-square&color=2c5364&labelColor=0f2027" alt="stars"/>
 
----
-
-## Технологический стек
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+</div>
 
 ---
 
-## Направления в информационной безопасности
+## `whoami`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AppSec-Application%20Security-red?style=flat-square" alt="AppSec" />
-  <img src="https://img.shields.io/badge/Audit-Code%20Review-orange?style=flat-square" alt="Audit" />
-  <img src="https://img.shields.io/badge/Pentest-Web%20%26%20API-critical?style=flat-square" alt="Pentest" />
-  <img src="https://img.shields.io/badge/Secure%20SDLC-Best%20Practices-blue?style=flat-square" alt="SSDLC" />
-</p>
+```text
+$ whoami
+NatePoint
 
----
+$ cat about.txt
+Специализация  : информационная безопасность
+Второе хобби   : программирование (Python, Dart/Flutter)
+Подход         : сначала понять, как это работает, потом защищать
+Девиз          : безопасность — это процесс, а не продукт
+```
 
-## Статистика GitHub
+- 🔐 Увлечён **информационной безопасностью**: сети, веб-уязвимости, анализ защищённости, основы форензики
+- 💻 Программирую для себя: автоматизация, небольшие утилиты, мобильные и десктопные приложения
+- 🧪 Тренируюсь на CTF, лабораториях и собственных стендах
+- 📚 Сейчас учу: _углублённый pentest, реверс-инжиниринг, Active Directory_
+- 🌱 Веду заметки и разборы того, что изучаю
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?NatePoint=NatePoint&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatePoint&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NatePoint=NatePoint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
----
-
-## Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?NatePoint=NatePoint&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
+> ⚠️ Всё, что я делаю в области безопасности, происходит **только в легальных рамках**: свои стенды, учебные лаборатории, CTF и ресурсы с разрешением владельца.
 
 ---
 
-## График активности
+## 🧰 Технологии и инструменты
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?NatePoint=NatePoint&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
+
+**Языки и разработка**
+
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,kotlin,bash,js,html,css,git,github&theme=dark" alt="languages"/>
+
+**Системы и окружение**
+
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,vscode,androidstudio,powershell&theme=dark" alt="systems"/>
+
+**Информационная безопасность**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp"/>
+<img src="https://img.shields.io/badge/Nmap-00A3E0?style=for-the-badge&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/>
+
+</div>
 
 ---
 
-## Контакты
+## 🛡️ Направления в ИБ
 
-<p align="left">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/your_telegram">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com/in/your_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+| Область | Что изучаю |
+| :-- | :-- |
+| 🌐 **Сети** | TCP/IP, DNS, анализ трафика, сканирование, сегментация |
+| 🕸️ **Веб-безопасность** | OWASP Top 10, XSS, SQLi, IDOR, настройка заголовков безопасности |
+| 🐧 **Системы** | Hardening Linux/Windows, права доступа, логи и аудит |
+| 🔍 **Разведка (OSINT)** | Открытые источники, цифровой след, проверка утечек |
+| 🔑 **Криптография** | Хеширование, шифрование, управление ключами, пароли |
+| 🧬 **Реверс и анализ** | Основы анализа бинарников и поведения приложений |
+| 🚩 **CTF** | Веб, крипто, форензика, стеганография |
 
 ---
 
-<p align="center">
-  <i>Открыт для сотрудничества в области информационной безопасности и разработки программного обеспечения.</i>
-</p>
+## 📁 Избранные проекты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎵 Atmos
+Музыкальный плеер для Android на **Flutter** + десктопная версия на **Python / PySide6**.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[🔗 Репозиторий](https://github.com/NatePoint/Atmos)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎯 Focus Trap
+Приложение против дофаминовой ямы: таймер фокуса, **блокировка приложений**, серия чистых дней, режим «Тяга».
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+[🔗 Репозиторий](https://github.com/NatePoint/Focus-Trap)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔧 Мои утилиты для ИБ
+Небольшие скрипты на Python: сканеры, парсеры логов, генераторы паролей, проверка хешей.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+[🔗 Репозиторий](https://github.com/NatePoint)
+
+</td>
+    <td width="50%" valign="top">
+
+### 📝 Write-ups и заметки
+Разборы CTF-задач, лабораторных и конспекты по темам безопасности.
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+[🔗 Репозиторий](https://github.com/NatePoint)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📊 Статистика GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NatePoint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatePoint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&langs_count=8" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=NatePoint&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5a0&fire=ff6a00&currStreakLabel=00e5a0" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NatePoint&bg_color=0d1117&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true&area_color=00e5a0" alt="activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Змейка вкладов
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NatePoint/NatePoint/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+</div>
+
+> Чтобы змейка заработала, добавь workflow `.github/workflows/snake.yml` (файл лежит рядом с этим README).
+
+---
+
+## 🏆 Награды и достижения
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NatePoint&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
+
+</div>
+
+---
+
+## 🤝 Связаться со мной
+
+<div align="center">
+
+<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/NatePoint"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+"Лучший способ защитить систему — понять, как её ломают."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
