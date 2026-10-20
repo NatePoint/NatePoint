@@ -1,6 +1,6 @@
 <div align="center">
 
-# NatePoint
+# nate // developer 
 
 **Информационная безопасность  ///  ae / web-disign / wwwSten**
 
