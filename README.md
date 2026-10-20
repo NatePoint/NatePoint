@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=NatePoint&fontSize=60&fontColor=00e5a0&fontAlignY=45&desc=Информационная%20безопасность%20•%20Код%20•%20Эксперименты&descSize=18&descAlignY=72&descColor=c9d1d9" width="100%" alt="header"/>
-
-</div>
-
----
-
 ## Технологии и инструменты
 
 <div align="center">
@@ -55,35 +47,6 @@ $ cat about.txt
 
 ---
 
-## Направления в ИБ
-
-| Область | Что изучаю |
-| :-- | :-- |
-| **Сети** | TCP/IP, DNS, анализ трафика, сканирование, сегментация |
-| **Веб-безопасность** | OWASP Top 10, XSS, SQLi, IDOR, настройка заголовков безопасности |
-| **Системы** | Hardening Linux/Windows, права доступа, логи и аудит |
-| **Разведка (OSINT)** | Открытые источники, цифровой след, проверка утечек |
-| **Криптография** | Хеширование, шифрование, управление ключами, пароли |
-| **Реверс и анализ** | Основы анализа бинарников и поведения приложений |
-| **CTF** | Веб, крипто, форензика, стеганография |
-
----
-
-## Статистика GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NatePoint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatePoint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5a0&langs_count=8" alt="top langs"/>
-
-<img src="https://streak-stats.demolab.com?user=NatePoint&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5a0&fire=ff6a00&currStreakLabel=00e5a0" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NatePoint&bg_color=0d1117&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true&area_color=00e5a0" alt="activity graph" width="100%"/>
-
-</div>
-
----
-
 ## Связаться со мной
 
 <div align="center">
@@ -92,15 +55,5 @@ $ cat about.txt
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/NatePoint"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-"Лучший способ защитить систему — понять, как её ломают."
-```
 
 </div>
