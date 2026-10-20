@@ -1,3 +1,29 @@
+<div align="center">
+
+# NatePoint
+
+**Информационная безопасность  /  Разработка  /  Эксперименты**
+
+<img src="https://img.shields.io/badge/фокус-информационная_безопасность-00e5a0?style=flat-square&labelColor=0f2027" alt="focus"/>
+<img src="https://img.shields.io/badge/веб-HTML_•_CSS_•_PHP-2c5364?style=flat-square&labelColor=0f2027" alt="web"/>
+<img src="https://img.shields.io/badge/язык-Java-2c5364?style=flat-square&labelColor=0f2027" alt="java"/>
+<img src="https://img.shields.io/badge/практика-CTF-2c5364?style=flat-square&labelColor=0f2027" alt="ctf"/>
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  > сначала понять, как это работает                      │
+│  > потом защищать                                        │
+│                                                          │
+│  [ legal only ]   свои стенды  •  CTF  •  лаборатории    │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
 ## Технологии и инструменты
 
 <div align="center">
