@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Языки и разработка**
+**Языки | ЯП**
 
 <img src="https://skillicons.dev/icons?i=python,dart,flutter,kotlin,bash,js,html,css,git,github&theme=dark" alt="languages"/>
 
@@ -10,7 +10,7 @@
 
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,vscode,androidstudio,powershell&theme=dark" alt="systems"/>
 
-**Информационная безопасность**
+**Информационная безопасность | Иб**
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
@@ -28,20 +28,20 @@
 
 ```text
 $ whoami
-NatePoint
+nate
 
 $ cat about.txt
 Специализация  : информационная безопасность
-Второе хобби   : программирование (Python, Dart/Flutter)
+Второе хобби   : программирование (Html, Css, PhP, Java)
 Подход         : сначала понять, как это работает, потом защищать
 Девиз          : безопасность — это процесс, а не продукт
 ```
 
-- Увлечён **информационной безопасностью**: сети, веб-уязвимости, анализ защищённости, основы форензики
-- Программирую для себя: автоматизация, небольшие утилиты, мобильные и десктопные приложения
-- Тренируюсь на CTF, лабораториях и собственных стендах
-- Сейчас учу: _углублённый pentest, реверс-инжиниринг, Active Directory_
-- Веду заметки и разборы того, что изучаю
+- Увлечён **информационной безопасностью**: сети, веб-уязвимости, анализ защищённости.
+- Программирую для себя: автоматизация, небольшие утилиты, рекламные сайты.
+- Тренируюсь на CTF, лабораториях и собственных стендах. (Capture The Flag)
+- Сейчас занимаюсь: _углублённым pentest, реверс-инжиниринг_
+- Веду ТикТок аккаунт: @klaio01 
 
 > Всё, что я делаю в области безопасности, происходит **только в легальных рамках**: свои стенды, учебные лаборатории, CTF и ресурсы с разрешением владельца.
 
@@ -51,9 +51,9 @@ $ cat about.txt
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/qqNate"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:abuse@telegram.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/NatePoint"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@telegram"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 </div>
